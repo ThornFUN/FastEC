@@ -11,8 +11,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/milk-annotation" />
             <option value="$PROJECT_DIR$/milk-compiler" />
+            <option value="$PROJECT_DIR$/milk-core" />
             <option value="$PROJECT_DIR$/milk-ec" />
-            <option value="$PROJECT_DIR$/milk.core" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

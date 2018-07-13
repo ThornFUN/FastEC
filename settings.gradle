@@ -1,1 +1,1 @@
-include ':app', ':milk-annotation', ':milk-compiler', ':milk.core', ':milk-ec'
+include ':app', ':milk-annotation', ':milk-compiler', ':milk-core', ':milk-ec'
