@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FastEC.iml" filepath="$PROJECT_DIR$/FastEC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/milk-annotation/latte-annotation.iml" filepath="$PROJECT_DIR$/milk-annotation/latte-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/milk-compiler/milk-compiler.iml" filepath="$PROJECT_DIR$/milk-compiler/milk-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/milk-ec/milk-ec.iml" filepath="$PROJECT_DIR$/milk-ec/milk-ec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/milk.core/milk.core.iml" filepath="$PROJECT_DIR$/milk.core/milk.core.iml" />
+    </modules>
+  </component>
+</project>
